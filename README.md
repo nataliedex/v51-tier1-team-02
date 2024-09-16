@@ -34,7 +34,7 @@ Everyone on your team should add their name along with a link to their GitHub
 your repo access and to practice PR'ing with your team _before_ you start
 coding!
 
-- Natalie Blumen: https://github.com/nataliedex / www.linkedin.com/in/natalieblumen / natalie test
+- Natalie Blumen: https://github.com/nataliedex / www.linkedin.com/in/natalieblumen / 
 - Jessi Altrock: https://github.com/jaltrock / www.linkedin.com/in/jessi-altrock-developer
 - Reinaldo Robles: https://github.com/Robodlan / https://www.linkedin.com/in/reinaldo-robles-4b3281221/
 - Carina Young: https://github.com/carinawyoung / https://www.linkedin.com/in/carina-w-young/
